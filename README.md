@@ -62,3 +62,7 @@ The [examples guide](docs/examples.md) provides three standalone ParaBank script
 | `ExplorationResult` | Stop response, abstract model, and evidence directory. |
 
 Remaining work is tracked in [TODO](TODO.md).
+
+## Benchmark
+
+The [local browser benchmark](benchmarks/README.md) compares identical native Playwright actions, evidence recording, and ASM exploration. It supports screenshot toggling, page-size settings, warm-ups, repeated rounds, and validated saved traces.
